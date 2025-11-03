@@ -30,7 +30,7 @@ Team Collaboration & Client Communication
 
 **🏫 Education**
 
-Bachelor’s in Interior Design
+Bachelor Engineering cyber security 
 Mahendra Engineering College, Namakkal.
 [Year of Completion]
 
