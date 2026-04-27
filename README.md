@@ -1,88 +1,94 @@
-**🧾 Vishnupriyan A — Resume**
+👋 Hi, I'm Vishnu Priyan A
 
-**👋 About Me**
-
-Hi! I’m Vishnupriyan A, a passionate and creative professional dedicated to producing simple, functional, and aesthetic interior design solutions.
-I enjoy transforming spaces with a clean, minimal style that balances beauty and practicality.
-
-To apply my design skills, creativity, and visualization expertise to deliver innovative and sustainable interior solutions while growing in a collaborative and dynamic environment.
-
+💻 Web Development & Cybersecurity Enthusiast
+📍 Tamil Nadu, India
 
 ---
 
-**🛠️ Skills**
+🚀 About Me
 
-Interior Design & Space Planning
+I am a motivated Cybersecurity student with a strong foundation in network security, ethical hacking, and system administration.
 
-AutoCAD, SketchUp, 3ds Max
-
-Rendering & Visualization
-
-Project Coordination
-
-Material and Color Selection
-
-Team Collaboration & Client Communication
-
-
+I enjoy identifying vulnerabilities, securing digital systems, and building efficient web applications. I am passionate about applying my technical skills to real-world cybersecurity challenges and continuously improving my knowledge in both development and security domains.
 
 ---
 
-**🏫 Education**
+🛠️ Skills
 
-Bachelor Engineering cyber security 
-Mahendra Engineering College, Namakkal.
-[Year of Completion]
+💻 Web Development
 
+- HTML, CSS, PHP, MySQL
 
----
+🔐 Cybersecurity & Tools
 
-**💼 Experience**
-Intern / Junior Interior Designer
-[Company Name], [Location] | [Month Year – Month Year]
+- Wireshark, Kali Linux, Nessus
+- Network Scanning & Vulnerability Analysis
+- Password Cracking (Simulation)
 
-Assisted in residential and commercial design projects.
+🌐 Networking
 
-Prepared layout plans and 3D renders.
+- TCP/IP, Firewalls, VPNs
+- IDS/IPS, Network Monitoring
 
-Collaborated with senior designers and vendors for project execution.
+🖥️ Operating Systems
 
+- Linux (Ubuntu, Kali)
+- Windows Server, macOS
 
+🎨 Design
 
----
-
-**🖼️ Projects**
-
-*Network Scanner*
-Network-Scanner is a powerful tool designed to scan and analyze network environments. helping users identify connected devices, their IP addresses. open ports, and potential vulnerabilities. This project aims to provide a comprehensive solution for network administrators and cybersecurity professionals to maintain and secure their networks 
-Language : Python,Linux system administration 
-
-*Smart Attendance Using Face Detection*
-An automated attendance system that leverages facial recognition technology to identify and record student presence efficiently 
-Language: Python
----
-
-**🏆 Achievements**
-
-Successfully completed design internship with focus on space optimization.
-
-Participated in design exhibitions showcasing minimalist interior concepts.
-
-
+- Canva (Posters, Social Media Designs, Banners)
 
 ---
 
-**📂 Resume**
+📂 Projects
 
-📄 Download My Resume (PDF)
+🔍 Network Scanner
 
+A tool designed to scan and analyze networks to identify connected devices, IP addresses, open ports, and vulnerabilities.
+
+- Tech: Python, Linux
 
 ---
 
-**📫 Contact Me**
+🎓 Smart Attendance System (Face Detection)
 
-Email: vpriyan426@gmail.com
+An automated system using facial recognition to track attendance efficiently.
 
-LinkedIn: https://www.linkedin.com/in/vishnu-priyan-4b0a072a1
+- Tech: Python
 
-Location: India
+---
+
+🌐 Online Resume Builder
+
+A web application for creating and managing resumes.
+
+- Tech: HTML, CSS, PHP, MySQL
+
+---
+
+🏆 Certifications
+
+- Social Engineering Techniques
+- Cryptography Workshop
+- Linux & Bug Bounty Bootcamp
+- Web Development Internship (CodeBind Technologies)
+
+---
+
+🎓 Education
+
+🎓 B.E Cyber Security
+Mahendra Engineering College, Namakkal
+CGPA: 7.99 (Expected Graduation: 2027)
+
+---
+
+📫 Contact Me
+
+- 📧 Email: vishnucyber7@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/vishnupriyan
+
+---
+
+⭐ “Always learning, always securing.”
